@@ -1,0 +1,74 @@
+[
+    {
+      "id": "a1",
+      "picture": "https://media.istockphoto.com/id/1452604857/photo/businessman-touching-the-brain-working-of-artificial-intelligence-automation-predictive.jpg?b=1&s=170667a&w=0&k=20&c=iJp6e2C-l2lRmyG3ColHMpXe0QYrPnrfQQc2O6PsYC4=",
+      "header": "Artificial Intelligence",
+      "description": "AI is transforming many industries, and demand is high for professionals with skills in machine learning, natural language processing, computer vision, and more."
+    },
+    {
+      "id": "a2",
+      "picture": "https://img.freepik.com/free-vector/cyber-security-concept_53876-90448.jpg",
+      "header": "Cybersecurity",
+      "description": "With cyberattacks becoming increasingly common, businesses need skilled professionals who can protect their networks and systems from threats."
+    },
+    {
+      "id": "a3",
+      "picture": "https://img.freepik.com/free-vector/cloud-services-isometric-composition-with-big-cloud-computing-infrastructure-elements-connected-with-dashed-lines-vector-illustration_1284-30495.jpg",
+      "header": "Cloud Computing",
+      "description": "As more and more companies move their operations to the cloud, there is a growing need for professionals who can design, implement, and maintain cloud-based systems and applications."
+    },
+    {
+      "id": "a4",
+      "picture": "https://www.shutterstock.com/image-photo/data-science-deep-learning-artificial-260nw-1247255884.jpg",
+      "header": "Data Science",
+      "description": "Organizations are collecting more data than ever before, and need professionals who can analyze that data to uncover insights that can drive business decisions."
+    },
+    {
+      "id": "a5",
+      "picture": "https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg",
+      "header": "Software Development",
+      "description": "Demand for skilled software developers continues to grow, as companies seek to develop new applications and improve existing ones."
+    },
+    {
+      "id": "a6",
+      "picture": "https://thumbs.dreamstime.com/b/product-management-businessman-working-holographic-interface-motion-high-quality-hologram-product-management-businessman-99397209.jpg",
+      "header": "Product Management",
+      "description": "Product managers are responsible for developing and launching successful products, and are in high demand across industries."
+    },
+    {
+      "id": "a7",
+      "picture": "https://thumbs.dreamstime.com/b/digital-marketing-concept-image-business-man-presenting-different-tools-modern-marketers-modern-digital-marketing-concepts-135508384.jpg",
+      "header": "Digital Marketing",
+      "description": "As more and more businesses move online, the need for skilled digital marketers who can drive traffic and engagement is on the rise."
+    },
+    {
+      "id": "a8",
+      "picture": "https://cdn.pixabay.com/photo/2017/01/25/12/31/bitcoin-2007769__480.jpg",
+      "header": "Blockchain",
+      "description": "Blockchain technology has the potential to revolutionize many industries, and there is a growing demand for professionals who can develop and implement blockchain solutions."
+    },
+    {
+      "id": "a9",
+      "picture": "https://img.freepik.com/free-vector/gradient-style-ui-ux-background_52683-69621.jpg",
+      "header": "UX/UI Design",
+      "description": "As user experience becomes increasingly important in the digital world, there is a growing demand for skilled designers who can create intuitive and engaging user interfaces."
+    },
+    {
+      "id": "a10",
+      "picture": "https://nareshit.com/wp-content/uploads/2018/09/salesforce-admin-online-training-nareshit.jpg",
+      "header": "Salesforce Administration",
+      "description": "Salesforce is one of the most widely used CRM platforms, and there is a growing need for professionals who can manage and customize Salesforce implementations."
+    },
+    {
+      "id": "a11",
+      "picture": "https://media.istockphoto.com/id/1353929637/photo/man-hands-holding-movie-clapper-film-director-concept-behind-the-scenes-of-movie-shooting-or.jpg?s=612x612&w=0&k=20&c=qMRaEPWNTf9GiCEWju3L5K42M1iH_1mFshV0c6vgy04=",
+      "header": "Video Production",
+      "description": "With video content becoming more and more important for businesses, there is a growing demand for professionals who can create high-quality videos for a variety of platforms."
+    },
+    {
+      "id": "a12",
+      "picture": "https://media.istockphoto.com/id/976370312/photo/content-marketing-content-data-blogging-media-publication-information-vision-concept.jpg?s=612x612&w=0&k=20&c=93V95QsK40hmisFJuCj35GNLJKwB6Z4uuQ7ttLiVbHA=",
+      "header": "Content Writing",
+      "description": "Content is king in the digital world, and there is a growing need for skilled writers who can create engaging and informative content for a variety of platforms."
+    }
+  ]
